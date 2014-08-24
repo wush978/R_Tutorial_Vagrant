@@ -24,7 +24,7 @@ Windows
 
 - Vagrant_
 - Virtualbox_
-- `Gir for Windows <git-win>`_
+- `Gir for Windows`_
 
 .. _Vagrant: http://www.vagrantup.com/downloads.html
 .. _Virtualbox: https://www.virtualbox.org/wiki/Downloads
